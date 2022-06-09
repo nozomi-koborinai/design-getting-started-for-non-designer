@@ -1,3 +1,5 @@
 # design_getting_started_for_non_designer
 
 ノンデザイナーのためのデザイン入門 For Flutter
+
+ノンデザイナー向けのデザイン知識をFlutterに落とし込んでまとめていくリポジトリ
